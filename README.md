@@ -8,7 +8,7 @@ Cada projeto fica em uma pasta própria, com o código, um `README.md` explicand
 
 | # | Projeto | Descrição | Conceitos |
 | --- | --- | --- | --- |
-| 01 | [Calculador de Prazos](calculador_de_prazos) | Recebe uma lista de tarefas, classifica cada uma como concluída, em dia, urgente ou atrasada e mostra um resumo no final. | variáveis, booleanos, operadores, `while`, `for`, `if`/`elif`/`else`, f-strings |
+| 01 | [Calculador de Prazos](calculador_de_prazos) | Recebe uma lista de tarefas, classifica cada uma como concluída, em dia, urgente ou atrasada e mostra um resumo no final. | variáveis, booleanos, operadores, `while`, `for`, `if`/`elif`/`else`, f-strings, listas, funções |
 
 ## 🚀 Como executar um projeto
 
